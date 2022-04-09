@@ -1,0 +1,33 @@
+.square{
+    width:100px;
+    height:100px;
+    background-color:chocolate;
+    position: relative;
+    left:200px;
+  
+  }
+  .rectangle{
+    width:100px;
+    height:150px;
+    background-color:red;
+    position:relative;
+    left:100px;
+    
+  
+  }
+  .rectangle1{
+    width:180px;
+    height:150px;
+    background-color:blue;
+    position:relative;
+    left:200px;
+    bottom:150px;
+    
+  }
+  .rectangle2{
+    width:150px;
+    height:80px;
+    background-color:aqua;
+    position:relative;
+    bottom:265px;
+  }
